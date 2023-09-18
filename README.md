@@ -1,0 +1,2 @@
+# SC16IS750
+ESP32 driver for SC16IS750 UART bridge
